@@ -30,7 +30,7 @@
 <p align="center">
 <a href="https://fb.com/myself.munmun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="myself.munmun" height="30" width="40" /></a>
 <a href="https://instagram.com/iam._.mim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam._.mim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/beingmim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="beingmim" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@MimsMirror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mim's Mirror" height="30" width="40" /></a>
 </p>
 <hr/>
 
